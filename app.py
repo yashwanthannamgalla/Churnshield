@@ -26,10 +26,7 @@ feature_scores,top_feature = mu.get_feature_importance(
 )
 
 # individual reasons
-data["reason"] = mu.get_customer_reason(
-    model,
-    X
-)
+data["reason"] = mu.get_customer_reason(X)
 
 #revenue
 data = mu.calculate_business_metrics(data)

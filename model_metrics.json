@@ -1,0 +1,12 @@
+{
+  "train_accuracy": 0.9938,
+  "test_accuracy": 0.99,
+  "precision": 0.9692,
+  "recall": 1.0,
+  "f1_score": 0.9844,
+  "roc_auc": 0.9993,
+  "cv_auc_mean": 0.9995,
+  "cv_auc_std": 0.0005,
+  "cv_f1_mean": 0.986,
+  "cv_f1_std": 0.0076
+}
