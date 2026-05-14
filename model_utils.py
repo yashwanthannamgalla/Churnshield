@@ -80,7 +80,7 @@ def predict_churn(model, data):
 
     df["churn_probability"] = (
         probabilities
-    ).round(2)
+    ).round(4)
 
     return df, X
 
