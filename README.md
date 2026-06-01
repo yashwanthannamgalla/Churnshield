@@ -1,7 +1,9 @@
-## ChurnShield 
+# ChurnShield
+
 ChurnShield is an AI-powered customer retention and churn prediction platform that helps businesses identify high-risk customers, estimate revenue loss, and simulate retention strategies using machine learning and business analytics.
 
-## Features 
+## Features
+
 * Customer churn prediction
 * Risk segmentation (High, Medium, Low)
 * Revenue at risk estimation
@@ -9,25 +11,29 @@ ChurnShield is an AI-powered customer retention and churn prediction platform th
 * Retention strategy recommendations
 * Interactive business dashboard
 
-## Tech Stack 
+## Tech Stack
+
 * Python
 * Streamlit
 * Pandas
 * Scikit-learn
 * Plotly
 
-## Machine Learning 
+## Machine Learning
+
 * Random Forest Classifier
 * Customer behavior analysis
 * Churn probability prediction
 
-## Business Metrics 
+## Business Metrics
+
 * Revenue At Risk
 * Retention ROI
 * Customer Lifetime Value
 * Potential Revenue Loss
- 
-## Future Improvements 
+
+## Future Improvements
+
 * CRM integration
 * Email notifications
 * Real-time analytics
